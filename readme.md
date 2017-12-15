@@ -21,7 +21,8 @@ cp .env.example .env
 php artisan key:generate
 ```
 ## 设置数据库
-编辑`.env`文件
+
+编辑 `.env` 文件
 ```shell
 CACHE_DRIVER=array
 
