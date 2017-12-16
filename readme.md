@@ -58,6 +58,6 @@ location / {
 ## 访问
 [http://xxx.com/admin](http://xxx.com/admin)
 
-后台账号:`admin@admin.com`
+后台账号 :`admin@admin.com`
 
-后台密码:`admin`
+后台密码 :`admin`
