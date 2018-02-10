@@ -1,5 +1,7 @@
 # laravel 5.2*
 > 包含前后台登录认证以及权限管理的后台系统，模板为`color admin`
+- 参考图样
+![](https://github.com/JingYin007/adminPro/blob/master/public/QQ20180210172545.png)
 
 # 安装
 
